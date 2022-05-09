@@ -84,7 +84,8 @@ main{
     }
     .firstdiv{
         background-color: hsl(31, 77%, 52%);
-        width: 40%;
+        width: 50%;
+        margin-left: 0%;
         margin-bottom: 25px;
         height: 90vh;
         padding-top: 5%;
@@ -92,7 +93,7 @@ main{
         color: white;
         font-size:larger;
         line-height: 180%;
-        border-radius: 25px 25px 0px 0px;
+        border-radius: 25px 0px 0px 0px;
     }
     .title{
         text-transform:uppercase;
@@ -110,15 +111,17 @@ main{
     }
     .seconddiv{
         background-color:  hsl(184, 100%, 22%);
-        width: 40%;
+        width: 50%;
+        margin-left: 5%;
+        margin-bottom: 25px;
+        margin-left: 0px;
         height: 90vh;
         padding-top: 5%;
-        margin-bottom: 25px;
         padding-left: 3%;
         color: white;
         font-size:larger;
         line-height: 180%;
-        border-radius: 25px 25px 0px 0px;
+        border-radius: 0px 0px 0px 0px;
     }
     .button2{
         width: 150px;
@@ -132,15 +135,17 @@ main{
     }
     .thirddiv{
         background-color: hsl(179, 100%, 13%);
-        width: 40%;
+        width: 50%;
+        margin-left: 5%;
+        margin-bottom: 25px;
+        margin-left: 0%;
         height: 90vh;
         padding-top: 5%;
         padding-left: 3%;
-        margin-bottom: 25px;
         color: white;
         font-size:larger;
         line-height: 180%;
-        border-radius: 25px 25px 0px 0px;
+        border-radius: 0px 25px 0px 0px;
     }
     .button3{
         width: 150px;
