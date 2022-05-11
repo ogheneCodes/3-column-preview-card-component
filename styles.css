@@ -30,6 +30,7 @@ main{
     border:0px;
     font-weight: bold;
     font-size:large;
+    cursor: pointer;
     /* margin-bottom: 5%; */
 }
 .seconddiv{
@@ -51,6 +52,7 @@ main{
     border:0px;
     font-weight: bold;
     font-size:large;
+    cursor: pointer;
     
 }
 .thirddiv{
@@ -72,6 +74,7 @@ main{
     border:0px;
     font-weight: bold;
     font-size:large;
+    cursor: pointer;
 }
 @media(min-width: 1024px){
     main{
